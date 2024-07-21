@@ -1,0 +1,20 @@
+Reconnaissance and Information Gathering
+Exploitation and Attack
+Post-Exploitation
+Defense and Incident Response
+Cryptography and Steganography
+Network and Protocol Analysis
+Reverse Engineering and Binary Analysis
+Web Security
+Mobile Security
+Wireless Security
+Industrial and IoT Security
+Cloud Security
+Operating System Security
+Hardware and Physical Security
+Compliance and Auditing
+Privacy and Anonymity
+Fuzzing and Vulnerability Discovery
+Reporting and Documentation
+Offensive Security Frameworks
+Defensive Security Frameworks
